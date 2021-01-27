@@ -7,11 +7,12 @@ Just clone this repo, put your favorite CORS proxy in the `index.js` file and us
 
 ## Usage
 
-The usage is flawed for ~~two~~ three reasons:
+The usage is flawed for ~~two three~~ four reasons:
 
 1. You have to manually click the extension button to update the messages to translate
 2. Because of CORS we can't have nice things.
 3. It's not available on the Chrome Web Store because I'm broke
+4. I don't know anything about Chrome extensions development
 
 So, use at your own risk. This extension is by no means developed to be used in a production environment. It's been created in my spare time to help a spanish flatmate of mine understand our group chat.
 
